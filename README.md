@@ -66,3 +66,7 @@ Ce projet consiste à manipuler un dataset d'appartements, effectuer des analyse
 - Un **Jupyter Notebook** documenté contenant :
   - Le code pour la manipulation des données, les analyses statistiques, les visualisations et les modèles prédictifs.
   - Les résultats des évaluations des modèles de classification et de régression.
+
+## Livrable manquant
+- L'integaration de ces différents alorithmes dans VUE 
+
