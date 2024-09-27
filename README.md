@@ -68,5 +68,5 @@ Ce projet consiste à manipuler un dataset d'appartements, effectuer des analyse
   - Les résultats des évaluations des modèles de classification et de régression.
 
 ## Livrable manquant
-- L'integaration de ces différents alorithmes dans VUE 
+- L'integaration de ces différents alorithmes dans VUE par manque de temps
 
